@@ -1,7 +1,7 @@
 # Obfuscations
 ## Ofuscated Scripts
 
-#### Personal repository for storing/accessing obfuscated scripts. Most are a work in progress. 
+#### Personal repository for storing/accessing obfuscated scripts. Most are a work in progress/in a private repository. 
 
 ## ObDmp.ps1
 #### ObDmp.ps1 is a slightly obfuscated version of [Out-Minidump](https://github.com/PowerShellMafia/PowerSploit/blob/master/Exfiltration/Out-Minidump.ps1). Comment removal, changing the command name, and adjusting some variable names seemed to be sufficient to bypass WD.
