@@ -10,4 +10,4 @@
 
 #### The script can therefore be copy/pasted onto a desktop and ran without triggering WD. Exfil the dump file for processing with mimikatz on a friendly system, and cover tracks!
 
-#### I'm not a regular developer/code guy so I'm sure someone could improve the script. For example, using a byte array as a buffer is probably not the most efficient way but it seems to get the job done in a few seconds.
+#### I'm not a regular developer/code guy so I'm sure someone could improve the script. For example, using a byte array as a buffer is probably not the most efficient way but it seems to get the job done in a few seconds. It's quick and dirty, but it works! (as of 4.13.2022)
